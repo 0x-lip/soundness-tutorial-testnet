@@ -64,3 +64,15 @@ soundness-cli import-key --name MyKey --mnemonic "your mnemonic"
 ```bash
 python3 cli.py --help
 ```
+
+
+
+
+## info
+
+You can use this tool to check the current role and schedule to runing the game
+
+https://soundnessrole.netlify.app/
+
+Try to  played at  least 10 and upload cli successfully to mint badge
+To check badge visit #game-arena and type  /badge
