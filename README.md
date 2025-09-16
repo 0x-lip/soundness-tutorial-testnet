@@ -1,1 +1,1 @@
-# soundness-tutorial-testnet
+# Soundness Tutorial Testnet
